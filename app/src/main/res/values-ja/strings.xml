@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Taxi-Talk</string>
+    <string name="choose_language">言語を選択してください</string>
+    <string name="choose_language_sub">Choose your language · 言語を選択 · 选择语言</string>
+    <string name="auto_detect">話すだけで自動認識</string>
+    <string name="back">戻る</string>
+    <string name="speak">話す</string>
+    <string name="listening">聞いています…</string>
+    <string name="translating">通訳中…</string>
+    <string name="speaking_out">再生中…</string>
+    <string name="type_hint">メッセージを入力</string>
+    <string name="send">送信</string>
+    <string name="quick_phrases">よく使うフレーズ</string>
+    <string name="detected_fmt" formatted="true">%1$sと認識しました。よろしいですか？</string>
+    <string name="yes">はい</string>
+    <string name="change">変更</string>
+    <string name="trip_info">乗車情報</string>
+    <string name="driver_label">運転手</string>
+    <string name="you_label">あなた</string>
+    <string name="original">原文</string>
+    <string name="rear_empty">「話す」を押して話してください。\n運転手には韓国語で伝わります。</string>
+    <string name="model_downloading">翻訳モデルを準備中…</string>
+    <string name="model_fallback">オフライン定型文モード</string>
+    <string name="err_stt_unavailable">音声入力が使えません。入力欄かフレーズをご利用ください。</string>
+    <string name="err_no_match">聞き取れませんでした。もう一度お話しください。</string>
+    <string name="err_translate">翻訳できませんでした。原文のみ表示します。</string>
+    <string name="ann_welcome">通訳を開始しました。前のボタンを押してからお話しください。</string>
+    <string name="ann_seatbelt">安全のため、シートベルトをお締めください。</string>
+    <string name="ann_night_surcharge" formatted="true">現在は深夜割増の時間帯で、料金に%1$d%%の割増がかかります。</string>
+    <string name="ann_eta" formatted="true">目的地まであと約%1$d分です。</string>
+    <string name="ann_route_traffic">渋滞のため、より早いルートに変更しました。</string>
+    <string name="ann_route_accident">前方で事故があったため、ルートを変更しました。</string>
+    <string name="ann_route_roadwork">道路工事のため、ルートを変更しました。</string>
+    <string name="ann_approaching" formatted="true">目的地まであと約%1$dキロです。お荷物をお持ちください。</string>
+    <string name="ann_door_traffic_side">左側は車道です。右側のドアからお降りください。</string>
+    <string name="ann_ride_notice">会話は乗車終了時に削除されます。</string>
+    <string name="ann_say_again">ボタンを押して、もう一度お話しください。</string>
+    <string name="ann_route_other">ルートを変更しました。</string>
+</resources>

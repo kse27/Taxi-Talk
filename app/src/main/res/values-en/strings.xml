@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Taxi-Talk</string>
+    <string name="choose_language">Choose your language</string>
+    <string name="choose_language_sub">Choose your language · 言語を選択 · 选择语言</string>
+    <string name="auto_detect">Just speak — auto detect</string>
+    <string name="back">Back</string>
+    <string name="speak">Speak</string>
+    <string name="listening">Listening…</string>
+    <string name="translating">Translating…</string>
+    <string name="speaking_out">Playing…</string>
+    <string name="type_hint">Type a message</string>
+    <string name="send">Send</string>
+    <string name="quick_phrases">Quick phrases</string>
+    <string name="detected_fmt" formatted="true">We detected %1$s. Is that right?</string>
+    <string name="yes">Yes</string>
+    <string name="change">Change</string>
+    <string name="trip_info">Trip info</string>
+    <string name="driver_label">Driver</string>
+    <string name="you_label">You</string>
+    <string name="original">Original</string>
+    <string name="rear_empty">Press Speak and talk.\nThe driver will hear it in Korean.</string>
+    <string name="model_downloading">Preparing translation…</string>
+    <string name="model_fallback">Offline phrasebook mode</string>
+    <string name="err_stt_unavailable">Voice input is unavailable. Please type or use a quick phrase.</string>
+    <string name="err_no_match">Sorry, I didn\'t catch that. Please try again.</string>
+    <string name="err_translate">Couldn\'t translate. Showing the original only.</string>
+    <string name="ann_welcome">Interpretation is on. Press the button in front of you, then speak.</string>
+    <string name="ann_seatbelt">For your safety, please fasten your seatbelt.</string>
+    <string name="ann_night_surcharge" formatted="true">A late-night surcharge is in effect. %1$d%% is added to the fare.</string>
+    <string name="ann_eta" formatted="true">About %1$d minutes to your destination.</string>
+    <string name="ann_route_traffic">Heavy traffic ahead, so we\'re taking a faster route.</string>
+    <string name="ann_route_accident">There\'s an accident ahead, so we\'ve changed the route.</string>
+    <string name="ann_route_roadwork">Road work ahead, so we\'ve changed the route.</string>
+    <string name="ann_approaching" formatted="true">About %1$d km to your destination. Please gather your belongings.</string>
+    <string name="ann_door_traffic_side">The left side faces traffic. Please exit through the right door.</string>
+    <string name="ann_ride_notice">The conversation is deleted when the ride ends.</string>
+    <string name="ann_say_again">Please press the button and say that again.</string>
+    <string name="ann_route_other">The route has been changed.</string>
+</resources>

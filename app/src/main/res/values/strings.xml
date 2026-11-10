@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Taxi-Talk</string>
+    <string name="choose_language">언어를 선택하세요</string>
+    <string name="choose_language_sub">Choose your language · 言語を選択 · 选择语言</string>
+    <string name="auto_detect">말하면 자동 인식</string>
+    <string name="back">뒤로</string>
+    <string name="speak">말하기</string>
+    <string name="listening">듣고 있어요…</string>
+    <string name="translating">통역 중…</string>
+    <string name="speaking_out">전달 중…</string>
+    <string name="type_hint">직접 입력</string>
+    <string name="send">보내기</string>
+    <string name="quick_phrases">빠른 문장</string>
+    <string name="detected_fmt" formatted="true">%1$s(으)로 인식했어요. 맞나요?</string>
+    <string name="yes">네</string>
+    <string name="change">변경</string>
+    <string name="trip_info">운행 정보</string>
+    <string name="driver_label">기사님</string>
+    <string name="you_label">나</string>
+    <string name="original">원문</string>
+    <string name="rear_empty">말하기 버튼을 누르고 말씀하세요.\n기사님께 한국어로 전달됩니다.</string>
+    <string name="model_downloading">번역 모델 준비 중…</string>
+    <string name="model_fallback">오프라인 기본 문장 모드</string>
+    <string name="err_stt_unavailable">음성 인식을 사용할 수 없어요. 입력창이나 빠른 문장을 사용하세요.</string>
+    <string name="err_no_match">알아듣지 못했어요. 다시 말씀해 주세요.</string>
+    <string name="err_translate">번역하지 못했어요. 원문만 표시합니다.</string>
+    <string name="ann_welcome">통역이 시작되었습니다. 앞쪽 버튼을 누른 뒤 말씀해 주세요.</string>
+    <string name="ann_seatbelt">안전벨트를 착용해 주세요.</string>
+    <string name="ann_night_surcharge" formatted="true">지금은 심야 할증 시간으로, 요금에 %1$d%% 할증이 붙습니다.</string>
+    <string name="ann_eta" formatted="true">목적지까지 약 %1$d분 남았습니다.</string>
+    <string name="ann_route_traffic">교통 정체로 더 빠른 길로 경로를 변경했습니다.</string>
+    <string name="ann_route_accident">앞쪽 사고로 경로를 변경했습니다.</string>
+    <string name="ann_route_roadwork">도로 공사로 경로를 변경했습니다.</string>
+    <string name="ann_approaching" formatted="true">목적지까지 약 %1$d킬로미터 남았습니다. 소지품을 챙겨 주세요.</string>
+    <string name="ann_door_traffic_side">왼쪽은 차도입니다. 오른쪽 문으로 내려 주세요.</string>
+    <!-- 운전석 UI (한국어 전용) -->
+    <string name="drv_title">운전석</string>
+    <string name="drv_rear_title">뒷좌석 (승객 화면)</string>
+    <string name="drv_speak">말하기</string>
+    <string name="drv_listening">듣는 중…</string>
+    <string name="drv_waiting_passenger">승객 언어 선택 대기 중</string>
+    <string name="drv_passenger_fmt">승객: %1$s %2$s</string>
+    <string name="drv_last_passenger">승객이 말했어요</string>
+    <string name="drv_notice_prefix">승객 안내</string>
+    <string name="drv_end_ride">운행 종료</string>
+    <string name="drv_vehicle_pleos">차량 연결됨</string>
+    <string name="drv_vehicle_sim">모사 모드</string>
+    <string name="drv_gear_fmt">기어 %1$s</string>
+    <string name="drv_demo">시연 패널</string>
+    <string name="ann_ride_notice">대화는 운행이 끝나면 삭제됩니다.</string>
+    <!-- 기사님 화면 -->
+    <string name="drv_choose_lang">손님 언어를 선택하세요</string>
+    <string name="drv_choose_lang_sub">선택하면 바로 운행이 시작되고, 손님께 통역 안내가 음성으로 나갑니다.</string>
+    <string name="drv_talk_me">내가 말하기</string>
+    <string name="drv_talk_passenger">손님 말 듣기</string>
+    <string name="drv_direction_fmt">%1$s → %2$s</string>
+    <string name="drv_me">나</string>
+    <string name="drv_passenger">손님</string>
+    <string name="drv_no_text_driving">주행 중에는 직접 입력이 꺼집니다</string>
+    <string name="drv_status_idle">대기 중</string>
+    <string name="drv_empty_manual">버튼을 누르고 말하세요.\n내 말은 손님 언어로, 손님 말은 한국어로 통역됩니다.</string>
+    <string name="drv_door_left">왼쪽 뒷문</string>
+    <string name="drv_door_right">오른쪽 뒷문</string>
+    <string name="drv_door_open">열림</string>
+    <string name="drv_door_closed">닫힘</string>
+    <string name="drv_auto_log">자동 안내</string>
+    <string name="drv_auto_log_empty">아직 안내한 내용이 없습니다</string>
+    <string name="drv_conversation_deleted">운행 종료: 대화 내용이 삭제되었습니다</string>
+    <string name="drv_seat_left">뒷좌석 왼쪽</string>
+    <string name="drv_seat_right">뒷좌석 오른쪽</string>
+    <string name="drv_seat_empty">비어 있음</string>
+    <string name="drv_seat_belted">벨트 착용</string>
+    <string name="drv_seat_unbelted">벨트 미착용</string>
+    <string name="ann_say_again">버튼을 누르고 다시 말씀해 주세요.</string>
+    <string name="model_ready">번역 준비됨</string>
+    <string name="drv_listening_me">내 말 듣는 중</string>
+    <string name="drv_listening_passenger">손님 말 듣는 중</string>
+    <string name="drv_choose_lang_first">먼저 손님 언어를 선택해 주세요.</string>
+    <string name="drv_phrase_prompt">알아듣지 못했어요. 전할 문구를 누르세요</string>
+    <string name="drv_phrase_close">닫기</string>
+    <string name="ann_route_other">경로를 변경했습니다.</string>
+    <string name="drv_navi_prefix">내비</string>
+    <string name="drv_arrived">목적지에 도착했습니다</string>
+    <string name="drv_arrived_fmt">%1$s에 도착했습니다</string>
+</resources>

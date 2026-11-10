@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Taxi-Talk</string>
+    <string name="choose_language">请选择语言</string>
+    <string name="choose_language_sub">Choose your language · 言語を選択 · 选择语言</string>
+    <string name="auto_detect">直接说话，自动识别</string>
+    <string name="back">返回</string>
+    <string name="speak">说话</string>
+    <string name="listening">正在听…</string>
+    <string name="translating">翻译中…</string>
+    <string name="speaking_out">播放中…</string>
+    <string name="type_hint">输入消息</string>
+    <string name="send">发送</string>
+    <string name="quick_phrases">常用语</string>
+    <string name="detected_fmt" formatted="true">识别为%1$s。对吗？</string>
+    <string name="yes">是</string>
+    <string name="change">更改</string>
+    <string name="trip_info">行程信息</string>
+    <string name="driver_label">司机</string>
+    <string name="you_label">您</string>
+    <string name="original">原文</string>
+    <string name="rear_empty">按“说话”后开始讲话。\n司机会听到韩语翻译。</string>
+    <string name="model_downloading">正在准备翻译模型…</string>
+    <string name="model_fallback">离线常用语模式</string>
+    <string name="err_stt_unavailable">语音输入不可用，请输入文字或使用常用语。</string>
+    <string name="err_no_match">没听清，请再说一遍。</string>
+    <string name="err_translate">无法翻译，仅显示原文。</string>
+    <string name="ann_welcome">翻译已开启。请先按前方的按钮，然后再说话。</string>
+    <string name="ann_seatbelt">为了您的安全，请系好安全带。</string>
+    <string name="ann_night_surcharge" formatted="true">现在是深夜加价时段，车费加收%1$d%%。</string>
+    <string name="ann_eta" formatted="true">距离目的地还有大约%1$d分钟。</string>
+    <string name="ann_route_traffic">前方拥堵，已改走更快的路线。</string>
+    <string name="ann_route_accident">前方发生事故，已更改路线。</string>
+    <string name="ann_route_roadwork">前方道路施工，已更改路线。</string>
+    <string name="ann_approaching" formatted="true">距离目的地还有约%1$d公里，请带好随身物品。</string>
+    <string name="ann_door_traffic_side">左侧是车道，请从右侧车门下车。</string>
+    <string name="ann_ride_notice">对话将在行程结束后删除。</string>
+    <string name="ann_say_again">请按下按钮，再说一遍。</string>
+    <string name="ann_route_other">路线已更改。</string>
+</resources>
